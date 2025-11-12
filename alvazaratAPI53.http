@@ -1,0 +1,6 @@
+@alvazaratAPI53_HostAddress = http://localhost:5112
+
+# GET {{alvazaratAPI53_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+###

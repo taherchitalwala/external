@@ -1,0 +1,18 @@
+# Ignore Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+out/
+
+# Publish outputs
+*.publish/
+*.PublishSettings
+
+# Logs and temp files
+*.log
+*.tmp
+Logs/
