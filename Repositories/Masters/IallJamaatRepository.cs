@@ -6,6 +6,6 @@ namespace alvazaratAPI53.Repositories.Masters
     {
         Task<IEnumerable<allJamaatList>> GetAllJamaats(string? param1 = null);
         //test
-//thai gayu ne bhai
+//thai gayu ne bhai  
     }
 }
